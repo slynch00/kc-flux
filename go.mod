@@ -37,7 +37,7 @@ require (
 	github.com/whilp/git-urls v0.0.0-20160530060445-31bac0d230fa
 	golang.org/x/sys v0.0.0-20190801041406-cbf593c0f2f3
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/api v0.0.0-20190708174958-539a33f6e817 // kubernetes-1.14.4
 	k8s.io/apiextensions-apiserver v0.0.0-20190315093550-53c4693659ed // kubernetes-1.14.4
 	k8s.io/apimachinery v0.0.0-20190404173353-6a84e37a896d // kubernetes-1.14.4
